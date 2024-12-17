@@ -33,28 +33,29 @@
 ## Use Cases
 The main use cases are as follows.
 
-- [**Manage Time**](./use-cases/manage-time.md): Describes how employees request and view vacation time 
-requests.
+- ### [**Manage Time**](./use-cases/manage-time.md): 
+		Describes how employees request and view vacation time requests.
 
-- [**Approve Request**](./use-cases/approve-request.md): Describes how a manager responds to a subordinate’s request for vacation time. 
+- ### [**Approve Request**](./use-cases/approve-request.md): 
+		Describes how a manager responds to a subordinate’s request for vacation time. 
 
-- [**Award Time**](./use-cases/award-time.md): Describes how a manager can award a subordinate extra 
-leave time (comp time).
+- ### [**Award Time**](./use-cases/award-time.md): 
+		Describes how a manager can award a subordinate extra leave time (comp time).
 
-- [**Edit Employee Record**](./use-cases/edit-employee-record.md): Describes how an HR clerk edits an employee’s
-information in the system. This includes setting all the leave time allow￾ances and the maximum time that can be awarded by the manager.
+- ### [**Edit Employee Record**](./use-cases/edit-employee-record.md):
+ 		Describes how an HR clerk edits an employee’s information in the system. This includes setting all the leave time allowances and the maximum time that can be awarded by the manager.
 
-- [**Manage Locations**](./use-cases/manage-locations.md): Describes how an HR clerk manages location 
-records and their rules.
+- ### [**Manage Locations**](./use-cases/manage-locations.md):
+		Describes how an HR clerk manages location records and their rules.
 
-- [**Manage Leave Categories**](./use-cases/manage_leave_categories.md): Describes how an HR clerk manages
-leave categories and their rules.
+- ### [**Manage Leave Categories**](./use-cases/manage_leave_categories.md): 
+		Describes how an HR clerk manage leave categories and their rules.
 
-- [**Override Leave Records**](./use-cases/override-leave-records.md): Describes how an HR clerk may override 
-any rejection of leave time requests made by the rules in the system.
+- ### [**Override Leave Records**](./use-cases/override-leave-records.md): 
+		Describes how an HR clerk may override any rejection of leave time requests made by the rules in the system.
 
-- [**Back Up System Logs**](./use-cases/back-up-system-logs.md): Describes how the system administrator backs
-up the system’s logs. 
+- ### [**Back Up System Logs**](./use-cases/back-up-system-logs.md): 
+		Describes how the system administrator backs up the system’s logs. 
 
 | <img src="./digrams/usecase-diagram.drawio.png" width="100%" />
 | --------------------------------------------------------------- |
